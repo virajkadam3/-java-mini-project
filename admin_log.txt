@@ -1,0 +1,10 @@
+2025-05-12 02:13:59 - Admin registered: sarthi
+2025-05-12 02:14:44 - Admin logged in: sarthi
+2025-05-12 02:15:16 - Admin clicked Add Fruit button
+2025-05-12 02:15:35 - Admin clicked View Fruits button
+2025-05-12 02:15:53 - Admin clicked Delete Fruit button
+2025-05-12 02:16:11 - Admin clicked Delete Fruit button
+2025-05-12 02:16:28 - Admin clicked View Fruits button
+2025-05-12 02:16:39 - Admin clicked Update Fruit button
+2025-05-12 02:17:14 - Admin clicked Update Fruit button
+2025-05-12 02:17:19 - Admin logged out

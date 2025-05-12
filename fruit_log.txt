@@ -1,0 +1,3 @@
+2025-05-12 02:15:15 - Fruit added: Mango (ID: 4, Price: 50.0, Stock: 100)
+2025-05-12 02:15:51 - Fruit deleted: apple
+2025-05-12 02:17:12 - Fruit updated: Orange (ID: 3, Price: 60.0, Stock: 120)

@@ -1,0 +1,10 @@
+2025-05-12 02:23:52 - Customer registered: surya
+2025-05-12 02:24:12 - Customer logged in: surya
+2025-05-12 02:24:28 - Customer clicked View Fruits button
+2025-05-12 02:24:49 - Customer clicked Add Fruit to Cart button
+2025-05-12 02:24:58 - Customer clicked Add Fruit to Cart button
+2025-05-12 02:25:11 - Customer clicked View Cart button
+2025-05-12 02:25:47 - Customer clicked Delete Fruit from Cart button
+2025-05-12 02:25:59 - Customer clicked Show Bill button
+2025-05-12 02:26:07 - Customer completed purchase
+2025-05-12 02:26:19 - Customer logged out
